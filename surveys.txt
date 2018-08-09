@@ -1,0 +1,4 @@
+[
+{"name": "Games Addiction Survey", "questions_count": 10, "income": 10},
+{"name": "Relationship Survey", "questions_count": 8, "income": 8}
+]
